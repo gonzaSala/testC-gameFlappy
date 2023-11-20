@@ -15,7 +15,7 @@ namespace firtsGame_test
         Random posicionRandom = new Random();
         private List<Image> frames = new List<Image>();
         private int frameActual = 0;
-        private float velocidadSalto = 0f;
+        private float velocidadSalto = 0.5f;
         private float gravedad = 0.3f;
 
         public Form1()
@@ -32,12 +32,10 @@ namespace firtsGame_test
             TuboArriba.Location = new Point(270, -173 - distancia);
             TuboAbajo.Location = new Point(270, 319 - distancia);
             Puntaje.Text = "0";
-
-
         }
         private void CargarFrames()
         {
-            int numeroDeFrames = 7;
+            int numeroDeFrames = 3;
 
             for (int i = 1; i <= numeroDeFrames; i++)
             {
@@ -83,7 +81,7 @@ namespace firtsGame_test
                 iniciarJuego();
             }
 
-            if (Math.Abs(TuboArriba.Location.X - Player.Location.X) < 2)
+            if (Math.Abs(TuboArriba.Location.X - Player.Location.X) < 10)
             {
                 Console.WriteLine("Puntaje incrementado"); 
                 this.Invoke((MethodInvoker)delegate
