@@ -1,0 +1,17 @@
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\bin\Debug\net6.0-windows\firtsGame-test.exe
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\bin\Debug\net6.0-windows\firtsGame-test.deps.json
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\bin\Debug\net6.0-windows\firtsGame-test.runtimeconfig.json
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\bin\Debug\net6.0-windows\firtsGame-test.dll
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\bin\Debug\net6.0-windows\firtsGame-test.pdb
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame_test.Form1.resources
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame_test.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame-test.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame-test.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame-test.AssemblyInfo.cs
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame-test.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame-test.dll
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\refint\firtsGame-test.dll
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame-test.pdb
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\firtsGame-test.genruntimeconfig.cache
+C:\Users\Gonzalo\Documents\C#\firtsGame-test\firtsGame-test\obj\Debug\net6.0-windows\ref\firtsGame-test.dll
